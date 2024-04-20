@@ -12,14 +12,14 @@ Welcome to my Excel projects repository! This repository contains a collection o
 Description: This project includes an interactive dashboard for analyzing sales data. It provides insights into sales performance, trends, and key metrics.
 
 Features:
-- Visualizations: Charts and graphs for sales trends, product performance, and geographical analysis.
+- Visualizations: Charts and graphs for sales trends, product performance, top sales person and geographical analysis.
 - Data Filters: Interactive filters for date range, product category, and sales region.
-- Summary Metrics: Highlights key performance indicators such as total sales, profit margins, and top-selling products.
+- Business insights to grow sales.
 
-[Explore Project Folder](projects/project-1/)
+
+Explore Project Folder](projects/project-1/)
 
 ---
 
 Feel free to explore each project folder for detailed documentation, code files, and sample datasets. If you have any questions or feedback, please don't hesitate to reach out.
 
-Happy analyzing!
