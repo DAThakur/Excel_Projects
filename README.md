@@ -12,8 +12,9 @@ Welcome to my Excel projects repository! This repository contains a collection o
 Description: This project includes an interactive dashboard for analyzing sales data. It provides insights into sales performance, trends, and key metrics.
 
 Features:
+- Developed a basic dashboard using Pivot talbes to visualize sales data and identify performance.
+- Tools: Excel
 - Visualizations: Charts and graphs for sales trends, product performance, top sales person and geographical analysis.
-- Data Filters: Interactive filters for date range, product category, and sales region.
 - Business insights to grow sales.
 - Please note: To view all the details in this project, ensure that macros are enabled to access the full functionality of the sheets.
 
