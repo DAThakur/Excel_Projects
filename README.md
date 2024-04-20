@@ -17,7 +17,7 @@ Features:
 - Business insights to grow sales.
 
 
-Explore Project Folder](projects/project-1/)
+(Explore Project Folder](projects/project-1/)
 
 ---
 
