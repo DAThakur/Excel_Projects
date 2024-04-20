@@ -15,6 +15,7 @@ Features:
 - Visualizations: Charts and graphs for sales trends, product performance, top sales person and geographical analysis.
 - Data Filters: Interactive filters for date range, product category, and sales region.
 - Business insights to grow sales.
+- Please note: To view all the details in this project, ensure that macros are enabled to access the full functionality of the sheets.
 
 
 (https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
