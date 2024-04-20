@@ -17,7 +17,7 @@ Features:
 - Business insights to grow sales.
 
 
-[(Explore Project Folder](projects/project-1/)](https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
+(https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
 
 ---
 
