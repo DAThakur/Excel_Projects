@@ -1,5 +1,6 @@
-# Excel_Projects
-Welcome to my Excel projects repository! This repository contains a collection of Excel projects that I have created. Each project is designed to showcase various Excel skills and techniques. Below is an overview of the projects included in this repository along with instructions on how to use them.
+# Excel Projects Repository
+
+Welcome to my Excel projects repository! This repository contains a collection of Excel projects that I have created, showcasing my skills in data analysis, visualization, and automation.
 
 ## Table of Contents
 
@@ -19,6 +20,8 @@ Features:
 - Data Filters: Interactive filters for date range, product category, and sales region.
 - Summary Metrics: Highlights key performance indicators such as total sales, profit margins, and top-selling products.
 
+[Explore Project Folder](projects/project-1/)
+
 ---
 
 ## Project 2: Inventory Management System
@@ -29,6 +32,8 @@ Features:
 - Stock Tracking: Real-time updates on inventory levels, including alerts for low stock items.
 - Order Management: Generates purchase orders based on reorder points and supplier information.
 - Supplier Database: Maintains a database of suppliers with contact details and pricing information.
+
+[Explore Project Folder](projects/project-2/)
 
 ---
 
@@ -41,6 +46,8 @@ Features:
 - Scenario Analysis: Simulates different financial scenarios to assess their impact on business performance.
 - Sensitivity Analysis: Evaluates sensitivity to key variables such as interest rates, sales growth, and production costs.
 
+[Explore Project Folder](projects/project-3/)
+
 ---
 
 ## Project 4: Data Cleaning and Transformation Tool
@@ -51,6 +58,8 @@ Features:
 - Data Cleaning: Removes duplicates, handles missing values, and standardizes data formats.
 - Data Transformation: Transforms data into usable formats for analysis, such as pivot tables and charts.
 - Data Validation: Validates data integrity and consistency to ensure accurate analysis results.
+
+[Explore Project Folder](projects/project-4/)
 
 ---
 
