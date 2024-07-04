@@ -21,6 +21,19 @@ Features:
 
 (https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
 
+## Project 1: Hospitality Analysis Dashboard
+
+Description: "AtliQ Grands, a leading name in the Indian hospitality sector, is striving to regain its market position in luxury/business hotels. This Excel project showcases comprehensive data analysis and visualization aimed at boosting revenue and market share. Developed as a strategic tool, it empowers stakeholders with actionable insights derived from historical data, enabling informed decision-making."
+
+Features:
+- Data Analysis: Explore historical trends in revenue and occupancy rates.
+- Visualization: Interactive dashboards highlighting key performance metrics.
+- Insight Generation: Identify critical factors impacting revenue and market share.
+- Strategic Recommendations: Data-driven insights for management to implement effective business strategies.
+- Scalability: Framework designed for future data integration and analysis enhancements.
+
+
+(https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
 ---
 
 Feel free to explore each project folder for detailed documentation, code files, and sample datasets. If you have any questions or feedback, please don't hesitate to reach out.
