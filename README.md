@@ -28,8 +28,6 @@ This project includes an interactive dashboard for analyzing sales data. It prov
 
 [View Project 1: Sales Analysis Dashboard](https://github.com/DAThakur/Excel_Projects/blob/main/Dashboard.png)
 
-[Scroll to Top](#top)
-
 ---
 
 ### Project 2: Hospitality Analysis Dashboard
@@ -46,9 +44,6 @@ This project includes an interactive dashboard for analyzing sales data. It prov
 
 [View Project 2: Hospitality Analysis - Dashboard - 1](https://github.com/DAThakur/Excel_Projects/blob/main/AtliQ%20Hospitality%20Analyses%20-%20Page%201.png) 
 [And Dashboard - 2](https://github.com/DAThakur/Excel_Projects/blob/main/AtliQ%20Hospitality%20Analyses%20-%20Page%202.png)
-
-[Scroll to Top](#top)
-
 
 ---
 
