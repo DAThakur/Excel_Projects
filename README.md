@@ -9,7 +9,7 @@ Welcome to my Excel projects repository! This repository contains a collection o
 ## Table of Contents
 - [Project 1: Sales Analysis Dashboard](#project-1-sales-analysis-dashboard)
 - [Project 2: Hospitality Analysis Dashboard](#project-2-hospitality-analysis-dashboard)
-- [Project 3: Project Priority Metrix](#project-2-hospitality-analysis-dashboard)
+- [Project 3: Project Priority Metrix](#project-1-hospitality-analysis-dashboard)
 
 ---
 
