@@ -1,4 +1,4 @@
-Here's the updated content for your Excel Projects repository, including Project 3:
+Here's how you can integrate the **Sales Report & Finance Report for AtliQ Hardware** into your existing "Excel Projects Repository":
 
 ---
 
@@ -10,6 +10,7 @@ Welcome to my Excel projects repository! This repository contains a collection o
 - [Project 1: Sales Analysis Dashboard](#project-1-sales-analysis-dashboard)
 - [Project 2: Hospitality Analysis Dashboard](#project-2-hospitality-analysis-dashboard)
 - [Project 3: Project Priority Matrix](#project-3-project-priority-matrix)
+- [Project 4: Sales Report & Finance Report for AtliQ Hardware](#project-4-sales-report--finance-report-for-atliq-hardware)
 
 ---
 
@@ -59,10 +60,63 @@ This project helps manage and prioritize projects using a matrix parameter. The 
 - **Decision-Making Tool:** The matrix serves as a strategic tool for project managers to allocate resources efficiently and focus on projects that align with business goals.
 - **Tools:** Excel
 
-[View Project 3: Project Priority Matrix](https://github.com/DAThakur/Excel_Projects/blob/main/Project_Priority%20Matrix.pdf)
+[View Project 3: Project Priority Matrix](#link-to-project-priority-matrix-image-or-folder)
+
+---
+
+### Project 4: Sales Report & Finance Report for AtliQ Hardware
+
+**Sales Report**
+
+**Project Objective:**
+1. Create a customer performance report.
+2. Conduct a comprehensive comparison between market performance vs. sales targets.
+
+**Purpose of Sales Analytics:**  
+Empower businesses to monitor and evaluate their sales activities and performance.
+
+**Importance of Analyzing Sales Data:**  
+Identify sales patterns and track key performance indicators (KPIs).
+
+**Role of Reports:**
+- Determine effective customer discounts.
+- Facilitate negotiations with consumers.
+- Identify potential business expansion opportunities in promising countries.
+
+**Finance Report**
+
+**Project Objective:**
+1. Create Profit and Loss (P&L) reports by Fiscal Year & Months.
+2. Create Profit and Loss (P&L) reports by Markets.
+
+**Purpose of Financial Analytics:**  
+Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+**Importance of Analyzing Finance Data:**  
+Aid in benchmarking against industry peers and previous periods. Foundation for budgeting and forecasting.
+
+**Role of Reports:**
+- Align financial planning with strategic goals.
+- Instill confidence in the organization's financial outlook.
+
+**Technical Skills Gained:**
+- Proficiency in ETL methodology (Extract, Transform, Load).
+- Skills to generate a date table using Power Query.
+- Ability to derive fiscal months and quarters.
+- Establishing data model relationships with Power Pivot.
+- Proficiency in incorporating supplementary data into an existing data model.
+- Utilizing DAX to create calculated columns.
+
+**Soft Skills Gained:**
+- Refined understanding of Sales & Finance Reports.
+- Designing user-centric reports with empathy in mind.
+- Optimization of report generation through meticulous fine-tuning.
+- Developing a systematic approach to devising a report building plan.
+
+[View Project 4: Sales Report & Finance Report for AtliQ Hardware](#link-to-sales-and-finance-report-images-or-folder)
 
 ---
 
 Feel free to explore each project folder for detailed documentation, code files, and sample datasets. If you have any questions or feedback, please don't hesitate to reach out.
 
---- 
+---
