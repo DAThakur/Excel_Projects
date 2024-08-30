@@ -59,7 +59,7 @@ This project helps manage and prioritize projects using a matrix parameter. The 
 - **Decision-Making Tool:** The matrix serves as a strategic tool for project managers to allocate resources efficiently and focus on projects that align with business goals.
 - **Tools:** Excel
 
-[View Project 3: Project Priority Matrix](#link-to-project-priority-matrix-image-or-folder)
+[View Project 3: Project Priority Matrix](https://github.com/DAThakur/Excel_Projects/blob/main/Project_Priority%20Matrix.pdf)
 
 ---
 
