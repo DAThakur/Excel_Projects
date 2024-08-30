@@ -26,7 +26,7 @@ This project includes an interactive dashboard for analyzing sales data. It prov
 **Note:**  
 **To view all the details in this project, ensure that macros are enabled to access the full functionality of the sheets.**
 
-[View Project 1: Sales Analysis Dashboard](https://github.com/DAThakur/Excel_Projects/blob/main/Vijay%20Sales.xlsm)
+[View Project 1: Sales Analysis Dashboard](https://github.com/DAThakur/Excel_Projects/blob/main/Dashboard.png)
 
 ---
 
