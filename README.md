@@ -1,4 +1,4 @@
-Certainly! Here's your Excel Projects repository content, formatted properly:
+Here's the updated content for your Excel Projects repository, including Project 3:
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my Excel projects repository! This repository contains a collection o
 ## Table of Contents
 - [Project 1: Sales Analysis Dashboard](#project-1-sales-analysis-dashboard)
 - [Project 2: Hospitality Analysis Dashboard](#project-2-hospitality-analysis-dashboard)
-- [Project 3: Project Priority Metrix](#project-1-hospitality-analysis-dashboard)
+- [Project 3: Project Priority Matrix](#project-3-project-priority-matrix)
 
 ---
 
@@ -21,7 +21,7 @@ This project includes an interactive dashboard for analyzing sales data. It prov
 **Features:**
 - Developed a basic dashboard using Pivot tables to visualize sales data and identify performance.
 - **Tools:** Excel
-- **Visualizations:** Charts and graphs for sales trends, product performance, top sales person, and geographical analysis.
+- **Visualizations:** Charts and graphs for sales trends, product performance, top salespersons, and geographical analysis.
 - Provides business insights to grow sales.
 
 **Note:**  
@@ -43,11 +43,26 @@ This project includes an interactive dashboard for analyzing sales data. It prov
 - **Strategic Recommendations:** Data-driven insights for management to implement effective business strategies.
 - **Scalability:** Framework designed for future data integration and analysis enhancements.
 
-[View Project 2: Hospitality Analysis - Dashboard - 1](https://github.com/DAThakur/Excel_Projects/blob/main/AtliQ%20Hospitality%20Analyses%20-%20Page%201.png) 
+[View Project 2: Hospitality Analysis - Dashboard - 1](https://github.com/DAThakur/Excel_Projects/blob/main/AtliQ%20Hospitality%20Analyses%20-%20Page%201.png)  
 [And Dashboard - 2](https://github.com/DAThakur/Excel_Projects/blob/main/AtliQ%20Hospitality%20Analyses%20-%20Page%202.png)
+
+---
+
+### Project 3: Project Priority Matrix
+
+**Description:**  
+This project helps manage and prioritize projects using a matrix parameter. The matrix is designed to evaluate projects based on their priority, value, and feasibility, allowing for informed decision-making on project selection and execution.
+
+**Features:**
+- **Bubble Chart Visualization:** Utilized a bubble chart to visually represent project priorities, helping to quickly identify high-value, high-priority projects.
+- **Matrix Parameters:** Projects are assessed based on criteria such as urgency, impact, feasibility, and resource availability.
+- **Decision-Making Tool:** The matrix serves as a strategic tool for project managers to allocate resources efficiently and focus on projects that align with business goals.
+- **Tools:** Excel
+
+[View Project 3: Project Priority Matrix](#link-to-project-priority-matrix-image-or-folder)
 
 ---
 
 Feel free to explore each project folder for detailed documentation, code files, and sample datasets. If you have any questions or feedback, please don't hesitate to reach out.
 
----
+--- 
