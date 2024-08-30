@@ -42,7 +42,7 @@ This project includes an interactive dashboard for analyzing sales data. It prov
 - **Strategic Recommendations:** Data-driven insights for management to implement effective business strategies.
 - **Scalability:** Framework designed for future data integration and analysis enhancements.
 
-[View Project 2: Hospitality Analysis Dashboard - 1](https://github.com/DAThakur/Excel_Projects/blob/main/AtliQ%20Hospitality%20Analyses%20-%20Page%201.png) 
+[View Project 2: Hospitality Analysis - Dashboard - 1](https://github.com/DAThakur/Excel_Projects/blob/main/AtliQ%20Hospitality%20Analyses%20-%20Page%201.png) 
 [And Dashboard - 2](https://github.com/DAThakur/Excel_Projects/blob/main/AtliQ%20Hospitality%20Analyses%20-%20Page%202.png)
 
 ---
