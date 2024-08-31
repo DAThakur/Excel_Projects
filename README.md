@@ -1,6 +1,6 @@
 # Excel Projects Repository
 
-Welcome to my Excel projects repository! This repository contains a collection of Excel projects that I have created, showcasing my skills in data analysis, visualization, and automation.
+Welcome to my Excel projects repository! This repository contains a collection of Excel projects that I have created, showcasing my skills in data analysis, visualization and automation.
 
 ## Table of Contents
 - [Project 1: Sales Analysis Dashboard](#project-1-sales-analysis-dashboard)
@@ -13,12 +13,12 @@ Welcome to my Excel projects repository! This repository contains a collection o
 ### Project 1: Sales Analysis Dashboard
 
 **Description:**  
-This project includes an interactive dashboard for analyzing sales data. It provides insights into sales performance, trends, and key metrics.
+This project includes an interactive dashboard for analyzing sales data. It provides insights into sales performance, trends and key metrics.
 
 **Features:**
 - Developed a basic dashboard using Pivot tables to visualize sales data and identify performance.
 - **Tools:** Excel
-- **Visualizations:** Charts and graphs for sales trends, product performance, top salespersons, and geographical analysis.
+- **Visualizations:** Charts and graphs for sales trends, product performance, top salespersons and geographical analysis.
 - Provides business insights to grow sales.
 
 **Note:**  
@@ -48,11 +48,11 @@ This project includes an interactive dashboard for analyzing sales data. It prov
 ### Project 3: Project Priority Matrix
 
 **Description:**  
-This project helps manage and prioritize projects using a matrix parameter. The matrix is designed to evaluate projects based on their priority, value, and feasibility, allowing for informed decision-making on project selection and execution.
+This project helps manage and prioritize projects using a matrix parameter. The matrix is designed to evaluate projects based on their priority, value and feasibility, allowing for informed decision-making on project selection and execution.
 
 **Features:**
 - **Bubble Chart Visualization:** Utilized a bubble chart to visually represent project priorities, helping to quickly identify high-value, high-priority projects.
-- **Matrix Parameters:** Projects are assessed based on criteria such as urgency, impact, feasibility, and resource availability.
+- **Matrix Parameters:** Projects are assessed based on criteria such as urgency, impact, feasibility and resource availability.
 - **Decision-Making Tool:** The matrix serves as a strategic tool for project managers to allocate resources efficiently and focus on projects that align with business goals.
 - **Tools:** Excel
 
@@ -110,10 +110,10 @@ Aid in benchmarking against industry peers and previous periods. Foundation for 
 - Optimization of report generation through meticulous fine-tuning.
 - Developing a systematic approach to devising a report building plan.
 
-[View Project 4: Sales Report & Finance Report for AtliQ Hardware](#link-to-sales-and-finance-report-images-or-folder)
+[View Project 4: Insights for AtliQ Hardware](https://github.com/DAThakur/Excel_Projects/blob/main/Atliq_Sales_Report_Project_QNA.pdf)
 
 ---
 
-Feel free to explore each project folder for detailed documentation, code files, and sample datasets. If you have any questions or feedback, please don't hesitate to reach out.
+Feel free to explore each project folder for detailed documentation, code files and sample datasets. If you have any questions or feedback, please don't hesitate to reach out.
 
 ---
