@@ -65,7 +65,7 @@ This project helps manage and prioritize projects using a matrix parameter. The 
 **Sales Report**
 
 **Project Objective:**
-1. Create a customer performance report.
+1. Create a [customer performance report.](https://github.com/DAThakur/Excel_Projects/blob/main/Atliq_Sales_by_Customer.pdf)
 2. Conduct a comprehensive comparison between market performance vs. sales targets.
 
 **Purpose of Sales Analytics:**  
