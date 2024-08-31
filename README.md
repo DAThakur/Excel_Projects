@@ -66,7 +66,7 @@ This project helps manage and prioritize projects using a matrix parameter. The 
 
 **Project Objective:**
 1. Create a [customer performance report.](https://github.com/DAThakur/Excel_Projects/blob/main/Atliq_Sales_by_Customer.pdf)
-2. Conduct a comprehensive comparison between market performance vs. sales targets.
+2. Create a [product performance report.](https://github.com/DAThakur/Excel_Projects/blob/main/Atliq_Sales_by_Products.pdf)
 
 **Purpose of Sales Analytics:**  
 Empower businesses to monitor and evaluate their sales activities and performance.
@@ -84,9 +84,10 @@ Identify sales patterns and track key performance indicators (KPIs).
 **Project Objective:**
 1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/DAThakur/Excel_Projects/blob/main/Atliq_Hardware%20_Sales%20by%20year.pdf) & [Months.](https://github.com/DAThakur/Excel_Projects/blob/main/Atliq_Hardware_Sales%20by%20Year%20and%20Qtr.pdf)
 2. Create Profit and Loss (P&L) reports by [Markets.](https://github.com/DAThakur/Excel_Projects/blob/main/Atliq_finance_report_2.pdf)
+3. Create Profit and Loss (P&L) reports by [Region.](https://github.com/DAThakur/Excel_Projects/blob/main/Atliq_finance_report_1.pdf))
 
 **Purpose of Financial Analytics:**  
-Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+Evaluation of financial performance, support decision-making and facilitate communication with stakeholders.
 
 **Importance of Analyzing Finance Data:**  
 Aid in benchmarking against industry peers and previous periods. Foundation for budgeting and forecasting.
