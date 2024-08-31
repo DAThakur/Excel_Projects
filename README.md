@@ -1,7 +1,3 @@
-Here's how you can integrate the **Sales Report & Finance Report for AtliQ Hardware** into your existing "Excel Projects Repository":
-
----
-
 # Excel Projects Repository
 
 Welcome to my Excel projects repository! This repository contains a collection of Excel projects that I have created, showcasing my skills in data analysis, visualization, and automation.
